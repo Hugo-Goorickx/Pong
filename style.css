@@ -1,0 +1,20 @@
+body {
+  background: black;
+}
+body main {
+  margin: 0 auto;
+  background: white;
+  width: 660px;
+  height: 570px;
+  text-align: center;
+}
+body main ul {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+}
+body main ul li {
+  display: inline-block;
+}
+
+/*# sourceMappingURL=style.css.map */
